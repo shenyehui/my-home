@@ -6,7 +6,7 @@ on:
     - main  # 当推送到main分支时触发
  page_build: 
  schedule:
-  - cron:  '*/5 * * * *'
+  - cron:  '0 8 * * *'
 
 jobs:
   build:
