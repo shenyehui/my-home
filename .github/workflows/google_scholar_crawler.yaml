@@ -3,7 +3,7 @@ name: Get Citation Data
 on: 
  push:
    branches:
-    - main  # 当推送到main分支时触发
+    - main
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
