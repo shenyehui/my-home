@@ -9,11 +9,10 @@
 [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>\\
 **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss
 
-**Project**: [Suma++ ![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social)](https://github.com/PRBonn/semantic_suma)
+[**Project** ![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social)](https://github.com/PRBonn/semantic_suma)
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [Suma++ ![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social)](https://github.com/PRBonn/semantic_suma). Our work are promoted by more than 20 media and forums, such as [paopao](https://www.jintiankansha.me/t/qh9l9SITrX)、[cloud.tencent](https://cloud.tencent.com/developer/article/1772287).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- **Academic Impact**: Our work are promoted by more than 20 media and forums, such as [paopao](https://www.jintiankansha.me/t/qh9l9SITrX)、[cloud.tencent](https://cloud.tencent.com/developer/article/1772287).
+[//]: # "- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-#p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420)."
 </div>
 </div>
 
