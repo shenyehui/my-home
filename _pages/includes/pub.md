@@ -49,7 +49,7 @@
 
   **Xieyuanli Chen**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
   
-- ``TIE`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
+- ``TIE`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
   Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
   
