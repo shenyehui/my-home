@@ -66,9 +66,10 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 
-- `AAAI 2024` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320)
+- ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320)
 **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss. [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
+- ``RSS 2020`` [OverlapNet: Loop Closing for LiDAR-based SLAM](https://arxiv.org/abs/2105.11344)
+ **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss. [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
