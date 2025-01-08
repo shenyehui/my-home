@@ -8,15 +8,30 @@
    
 - ``RSS 2020`` [OverlapNet: Loop Closing for LiDAR-based SLAM](https://arxiv.org/abs/2105.11344) [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
 
-  **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss. 
+  **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
+  
 - ``RAL`` [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/abs/2203.03397) [![](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars)](https://github.com/haomo-ai/OverlapTransformer)
 
   Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
+  
+- ``ICRA 2021`` [Range image-based LiDAR localization for autonomous vehicles](https://arxiv.org/abs/2105.12121) [![](https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/range-mcl)
+
+  **Xieyuanli Chen** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
+  
+- ``Autonomous Robots`` [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0)
+
+  **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Jens Behley, Cyrill Stachniss
+  
+- ``ICRA 2021`` [Poisson surface reconstruction for LiDAR odometry and mapping](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
+
+  Ignacio Vizzo, **Xieyuanli Chen**, Nived Chebrolu, Jens Behley, Cyrill Stachniss.
+  
+- ``RAL`` [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
+
+  Louis Wiesmann, Andres Milioto, **Xieyuanli Chen**, Cyrill Stachniss, Jens Behley
+
 - `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
+- 
 - `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.
 - `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
 - `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
