@@ -30,18 +30,48 @@
 
   Louis Wiesmann, Andres Milioto, **Xieyuanli Chen**, Cyrill Stachniss, Jens Behley
 
-- `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
-- 
-- `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
-- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, et al. *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
-- ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
-- ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, et al.
-- ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech)
-- ``IJCAI 2022`` <span style="color:red">(Oral)</span> [EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling](), Lichao Zhang, Zhou Zhao, **Yi Ren**, et al.
-- ``IJCAI 2022`` [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](), Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao,  <span style="color:red">(Oral)</span>, [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff)
-- ``NAACL 2022`` [A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation](), Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, **Yi Ren**, et al.
+- `SSRR 2017` [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
+   **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
+  
+- `RAL` [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://arxiv.org/abs/2208.07473) [![](https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars)](https://github.com/YungeCui/BoW3D)
+
+  Yunge Cui, **Xieyuanli Chen**, Yinlong Zhang, Jiahua Dong, Qingxiao Wu, Feng Zhu
+
+- `IJCV` [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
+
+  Huan Yin, Xuecheng Xu, Sha Lu, **Xieyuanli Chen**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
+
+- `ICCV 2023` [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) [![](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars)](https://github.com/JunyuanDeng/NeRF-LOAM)
+
+  Junyuan Deng, Qi Wu, **Xieyuanli Chen**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
+  
+- `IROS 2020` [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
+
+  **Xieyuanli Chen**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
+  
+- ``TIE`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
+
+  Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
+  
+- ``TII`` [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
+
+  Junyi Ma, Guangming Xiong, Jingyi Xu, **Xieyuanli Chen**
+  
+- ``ICRA 2024`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656) [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
+
+  Hao Dong, Weihao Gu, Xianjing Zhang, Jintao Xu, Rui Ai, Huimin Lu, Juho Kannala, **Xieyuanli Chen**
+  
+- ``IJARS 2018`` [Distributed and collaborative monocular simultaneous localization and mapping for multi-robot systems in large-scale environments](https://journals.sagepub.com/doi/pdf/10.1177/1729881418780178)
+
+  Hui Zhang, **Xieyuanli Chen**, Huimin Lu, Junhao Xiao
+  
+- ``ECMR 2021`` [Online range image-based pole extractor for long-term lidar localization in urban environments](https://arxiv.org/abs/2108.08621)
+ 
+  Hao Dong, **Xieyuanli Chen**, Cyrill Stachniss
+   
+- ``RAL`` [Long-term localization using semantic cues in floor plan maps](https://arxiv.org/abs/2210.01456) 
+
+  Nicky Zimmerman, Tiziano Guadagnino, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
 - ``ACL 2022`` [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/abs/2202.13066), **Yi Ren**, Xu Tan, Tao Qin, et al.
 - ``ACL 2022`` [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
 - ``ICASSP 2022`` [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, et al.
