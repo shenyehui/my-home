@@ -67,11 +67,11 @@
 
  - ``IEEE Transactions on Intelligent Vehicles(TIV)`` [Link3d: Linear keypoints representation for 3d lidar point cloud](https://arxiv.org/pdf/2206.05927) 
 
-  Changxiang Liu, Hongshan Yu, Qiang Fu, **Xieyuanli Chen**, Naveed Akhtar, Zhi-Hong Mao
+   Changxiang Liu, Hongshan Yu, Qiang Fu, **Xieyuanli Chen**, Naveed Akhtar, Zhi-Hong Mao
   
  - ``CVPR 2024`` [Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf) [![](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc?style=social&label=Code+Stars)](https://github.com/haomo-ai/Cam4DOcc)
 
-  Junyi Ma, **Xieyuanli Chen**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
+   Junyi Ma, **Xieyuanli Chen**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
   
  - ``CVPR 2024`` [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf) 
 
