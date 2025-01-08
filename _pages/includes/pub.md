@@ -19,23 +19,23 @@
 
   - ``IEEE Robotics and Automation Letters(RA-L)`` [CoFiI2P: Coarse-to-Fine Correspondences-Based Image to Point Cloud Registration](https://www.researchgate.net/profile/Martin-Liao-3/publication/384282094_CoFiI2P_Coarse-to-Fine_Correspondences-Based_Image_to_Point_Cloud_Registration/links/66fbda20553d245f9e46e4be/CoFiI2P-Coarse-to-Fine-Correspondences-Based-Image-to-Point-Cloud-Registration.pdf)  [![](https://img.shields.io/github/stars/WHU-USI3DV/CoFiI2P?style=social&label=Code+Stars)](https://github.com/WHU-USI3DV/CoFiI2P)
 
-   Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang, Yuhao Li, Xianghong Zou, Fangning Li, **Xieyuanli Chen**, Zhen Dong, Bisheng Yang
+    Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang, Yuhao Li, Xianghong Zou, Fangning Li, **Xieyuanli Chen**, Zhen Dong, Bisheng Yang
 
   - ``IEEE Transactions on Instrumentation and Measurement(TIM)`` [CV-MOS: A Cross-View Model for Motion Segmentation](https://arxiv.org/pdf/2408.13790)  [![](https://img.shields.io/github/stars/SCNU-RISLAB/CV-MOS?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/CV-MOS)
 
-   Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **Xieyuanli Chen**, Jin Wu, Bohuan Xue
+    Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **Xieyuanli Chen**, Jin Wu, Bohuan Xue
   
   - ``IEEE Robotics and Automation Letters(RA-L)`` [GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://arxiv.org/pdf/2408.07917)  [![](https://img.shields.io/github/stars/yutongwangBIT/GOReloc?style=social&label=Code+Stars)](https://github.com/yutongwangBIT/GOReloc)
 
-   Yutong Wang, Chaoyang Jiang, **Xieyuanli Chen**
+    Yutong Wang, Chaoyang Jiang, **Xieyuanli Chen**
 
   - ``IEEE Transactions on Intelligent Transportation Systems(TITS)`` [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/)  [![](https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SFEMOS)
 
-   **Xieyuanli Chen**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
+    **Xieyuanli Chen**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
 
   - ``IEEE Transactions on Intelligent Vehicles(TIV)`` [PE-VINS: Accurate Monocular Visual-Inertial SLAM With Point-Edge Features](https://zaguan.unizar.es/record/144803/files/texto_completo.pdf)  [![](https://img.shields.io/github/stars/BlueAkoasm/PE-VINS?style=social&label=Code+Stars)](https://github.com/BlueAkoasm/PE-VINS)
 
-   Changxiang Liu, Hongshan Yu, Panfei Cheng, Wei Sun, Javier Civera, **Xieyuanli Chen**
+    Changxiang Liu, Hongshan Yu, Panfei Cheng, Wei Sun, Javier Civera, **Xieyuanli Chen**
   
   - ``IEEE International Conference on Robotics and Automation (ICRA)`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/pdf/2211.15656)  [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
 
