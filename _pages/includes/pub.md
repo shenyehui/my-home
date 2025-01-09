@@ -193,6 +193,66 @@
   Yici Hao, Wenbang Deng, **Xieyuanli Chen**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
   
 ## 2022
+- ``IEEE Transactions on Industrial Electronics (TIE)`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
+
+  Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
+  
+- ``Autonomous Robots`` [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0)
+
+  **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Jens Behley, Cyrill Stachniss
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/abs/2203.03397) [![](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars)](https://github.com/haomo-ai/OverlapTransformer)
+
+  Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Long-term localization using semantic cues in floor plan maps](https://arxiv.org/pdf/2210.01456) 
+
+  Nicky Zimmerman, Tiziano Guadagnino, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf)  [![](https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars)](https://github.com/PRBonn/3DUIS)
+
+  Lucas Nunes, **Xieyuanli Chen**, Rodrigo Marcuzzi, Aljosa Osep, Laura Leal-Taixé, Cyrill Stachniss, Jens Behley
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Fast sparse LiDAR odometry using self-supervised feature selection on intensity images](https://iris.uniroma1.it/bitstream/11573/1650161/4/Guadagnino_preprint_Fast_2022.pdf) 
+
+  Tiziano Guadagnino, **Xieyuanli Chen**, Matteo Sodano, Jens Behley, Giorgio Grisetti, Cyrill Stachniss
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Receding moving object segmentation in 3d lidar data using sparse 4d convolutions](https://arxiv.org/pdf/2206.04129) [![](https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars)](https://github.com/PRBonn/4DMOS)
+
+  Benedikt Mersch, **Xieyuanli Chen**, Ignacio Vizzo, Lucas Nunes, Jens Behley, Cyrill Stachniss
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://arxiv.org/abs/2208.07473) [![](https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars)](https://github.com/YungeCui/BoW3D)
+
+  Yunge Cui, **Xieyuanli Chen**, Yinlong Zhang, Jiahua Dong, Qingxiao Wu, Feng Zhu
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Automatic labeling to generate training data for online LiDAR-based moving object segmentation](https://arxiv.org/pdf/2201.04501) 
+
+  **Xieyuanli Chen**, Benedikt Mersch, Lucas Nunes, Rodrigo Marcuzzi, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view?pli=1) [![](https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars)](https://github.com/PRBonn/segcontrast)
+
+  Lucas Nunes, Rodrigo Marcuzzi, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
+  
+- `CVPR 2022` [Transfer learning from synthetic in-vitro soybean pods dataset for in-situ segmentation of on-branch soybean pods](https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/papers/Yang_Transfer_Learning_From_Synthetic_In-Vitro_Soybean_Pods_Dataset_for_In-Situ_CVPRW_2022_paper.pdf) 
+
+  Si Yang, Lihua Zheng, **Xieyuanli Chen**, Laura Zabawa, Man Zhang, Minjuan Wang
+  
+- `IROS 2022` [Ick-track: A category-level 6-dof pose tracker using inter-frame consistent keypoints for aerial manipulation](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/366614462_ICK-Track_A_Category-Level_6-DoF_Pose_Tracker_Using_Inter-Frame_Consistent_Keypoints_for_Aerial_Manipulation/links/641d0de166f8522c38ccebed/ICK-Track-A-Category-Level-6-DoF-Pose-Tracker-Using-Inter-Frame-Consistent-Keypoints-for-Aerial-Manipulation.pdf) [![](https://img.shields.io/github/stars/S-JingTao/Categorical_Pose_Tracking?style=social&label=Code+Stars)](https://github.com/S-JingTao/Categorical_Pose_Tracking)
+
+  Jingtao Sun, Yaonan Wang, Mingtao Feng, Danwei Wang, Jiawen Zhao, Cyrill Stachniss, **Xieyuanli Chen**
+  
+- `IROS 2022` [Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation](https://arxiv.org/pdf/2207.02201) [![](https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars)](https://github.com/haomo-ai/MotionSeg3D)
+
+  Jiadai Sun, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
+
+
+  
+## 2021
+- `CoRL 2021` [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf) [![](https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars)](https://github.com/PRBonn/point-cloud-prediction)
+
+## 2020
+  Benedikt Mersch, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
+  
 - ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
 
   **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
@@ -201,17 +261,13 @@
 
   **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
   
-- ``RAL`` [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/abs/2203.03397) [![](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars)](https://github.com/haomo-ai/OverlapTransformer)
 
-  Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
   
 - ``ICRA 2021`` [Range image-based LiDAR localization for autonomous vehicles](https://arxiv.org/abs/2105.12121) [![](https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/range-mcl)
 
   **Xieyuanli Chen** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
   
-- ``Autonomous Robots`` [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0)
 
-  **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Jens Behley, Cyrill Stachniss
   
 - ``ICRA 2021`` [Poisson surface reconstruction for LiDAR odometry and mapping](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
 
@@ -224,23 +280,13 @@
 - `SSRR 2017` [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
    **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
   
-- `RAL` [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://arxiv.org/abs/2208.07473) [![](https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars)](https://github.com/YungeCui/BoW3D)
-
-  Yunge Cui, **Xieyuanli Chen**, Yinlong Zhang, Jiahua Dong, Qingxiao Wu, Feng Zhu
-
-- `IJCV` [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
-
-  Huan Yin, Xuecheng Xu, Sha Lu, **Xieyuanli Chen**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
-
 
   
 - `IROS 2020` [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
 
   **Xieyuanli Chen**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
   
-- ``TIE`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
-  Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
   
 - ``ICRA 2024`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656) [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
 
