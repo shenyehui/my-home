@@ -16,26 +16,14 @@
 
    Jingtao Sun, Yaonan Wang, Mingtao Feng, Xiaofeng Guo, Huimin Lu, **Xieyuanli Chen**
 
-- ``IEEE Robotics and Automation Letters(RA-L)`` [SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM](https://arxiv.org/pdf/2407.08106) [![](https://img.shields.io/github/stars/nubot-nudt/SGLC?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SGLC)
-
-  Neng Wang, **Xieyuanli Chen**, Chenghao Shi, Zhiqiang Zheng, Hongshan Yu, Huimin Lu
- 
 - ``IEEE/ASME Transactions on Mechatronics`` [Efficient and Precise Homo-Hetero Teleoperation Based on an Optimized Upper Limb Exoskeleton](https://www.researchgate.net/profile/Huimin-Lu-3/publication/385488176_Efficient_and_Precise_Homo-Hetero_Teleoperation_Based_on_an_Optimized_Upper_Limb_Exoskeleton/links/6729da3d77f274616d5c789c/Efficient-and-Precise-Homo-Hetero-Teleoperation-Based-on-an-Optimized-Upper-Limb-Exoskeleton.pdf)
 
   Chuang Cheng, Wei Dai, Tuochang Wu, **Xieyuanli Chen**, Meiping Wu, Junzhi Yu, Jie Jiang, Huimin Lu
-
-- ``IEEE Robotics and Automation Letters(RA-L)`` [CoFiI2P: Coarse-to-Fine Correspondences-Based Image to Point Cloud Registration](https://www.researchgate.net/profile/Martin-Liao-3/publication/384282094_CoFiI2P_Coarse-to-Fine_Correspondences-Based_Image_to_Point_Cloud_Registration/links/66fbda20553d245f9e46e4be/CoFiI2P-Coarse-to-Fine-Correspondences-Based-Image-to-Point-Cloud-Registration.pdf)  [![](https://img.shields.io/github/stars/WHU-USI3DV/CoFiI2P?style=social&label=Code+Stars)](https://github.com/WHU-USI3DV/CoFiI2P)
-
-  Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang, Yuhao Li, Xianghong Zou, Fangning Li, **Xieyuanli Chen**, Zhen Dong, Bisheng Yang
 
 - ``IEEE Transactions on Instrumentation and Measurement(TIM)`` [CV-MOS: A Cross-View Model for Motion Segmentation](https://arxiv.org/pdf/2408.13790)  [![](https://img.shields.io/github/stars/SCNU-RISLAB/CV-MOS?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/CV-MOS)
 
   Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **Xieyuanli Chen**, Jin Wu, Bohuan Xue
   
-- ``IEEE Robotics and Automation Letters(RA-L)`` [GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://arxiv.org/pdf/2408.07917)  [![](https://img.shields.io/github/stars/yutongwangBIT/GOReloc?style=social&label=Code+Stars)](https://github.com/yutongwangBIT/GOReloc)
-
-  Yutong Wang, Chaoyang Jiang, **Xieyuanli Chen**
-
 - ``IEEE Transactions on Intelligent Transportation Systems(TITS)`` [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/)  [![](https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SFEMOS)
 
   **Xieyuanli Chen**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
@@ -52,21 +40,33 @@
 
   Changsong Pang, **Xieyuanli Chen**, Yimin Liu, Huimin Lu, Yuwei Cheng
   
+- ``IEEE Robotics and Automation Letters(RA-L)`` [GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://arxiv.org/pdf/2408.07917)  [![](https://img.shields.io/github/stars/yutongwangBIT/GOReloc?style=social&label=Code+Stars)](https://github.com/yutongwangBIT/GOReloc)
+
+  Yutong Wang, Chaoyang Jiang, **Xieyuanli Chen**
+
+- ``IEEE Robotics and Automation Letters(RA-L)`` [CoFiI2P: Coarse-to-Fine Correspondences-Based Image to Point Cloud Registration](https://www.researchgate.net/profile/Martin-Liao-3/publication/384282094_CoFiI2P_Coarse-to-Fine_Correspondences-Based_Image_to_Point_Cloud_Registration/links/66fbda20553d245f9e46e4be/CoFiI2P-Coarse-to-Fine-Correspondences-Based-Image-to-Point-Cloud-Registration.pdf)  [![](https://img.shields.io/github/stars/WHU-USI3DV/CoFiI2P?style=social&label=Code+Stars)](https://github.com/WHU-USI3DV/CoFiI2P)
+
+  Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang, Yuhao Li, Xianghong Zou, Fangning Li, **Xieyuanli Chen**, Zhen Dong, Bisheng Yang
+  
+- ``IEEE Robotics and Automation Letters(RA-L)`` [SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM](https://arxiv.org/pdf/2407.08106) [![](https://img.shields.io/github/stars/nubot-nudt/SGLC?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SGLC)
+
+  Neng Wang, **Xieyuanli Chen**, Chenghao Shi, Zhiqiang Zheng, Hongshan Yu, Huimin Lu
+ 
 - ``IEEE Robotics and Automation Letters(RA-L)`` [Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots](https://arxiv.org/pdf/2311.12651) [![](https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed?style=social&label=Code+Stars)](https://github.com/WHU-USI3DV/Mobile-Seed)
 
    Youqi Liao, Shuhao Kang, Jianping Li, Yang Liu, Yun Liu, Zhen Dong, Bisheng Yang, **Xieyuanli Chen**
   
-- ``Artificial Intelligence Review`` [3D point cloud-based place recognition: a survey](https://link.springer.com/content/pdf/10.1007/s10462-024-10713-6.pdf) 
-
-  Kan Luo, Hongshan Yu, **Xieyuanli Chen**, Zhengeng Yang, Jingwen Wang, Panfei Cheng, Ajmal Mian
-
-- `IJCV` [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
-
-  Huan Yin, Xuecheng Xu, Sha Lu, **Xieyuanli Chen**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
-
 - ``IEEE Robotics and Automation Letters(RA-L)`` [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/) [![](https://img.shields.io/github/stars/YungeCui/LinK3D?style=social&label=Code+Stars)](https://github.com/YungeCui/LinK3D)
 
   Yunge Cui, Yinlong Zhang, Jiahua Dong, Haibo Sun, **Xieyuanli Chen**, Feng Zhu
+    
+- ``Artificial Intelligence Review`` [3D point cloud-based place recognition: a survey](https://link.springer.com/content/pdf/10.1007/s10462-024-10713-6.pdf) 
+
+  Kan Luo, Hongshan Yu, **Xieyuanli Chen**, Zhengeng Yang, Jingwen Wang, Panfei Cheng, Ajmal Mian
+  
+- `IJCV` [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
+
+  Huan Yin, Xuecheng Xu, Sha Lu, **Xieyuanli Chen**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
 
 - ``ICRA 2024`` [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://arxiv.org/pdf/2404.01587) [![](https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/TSCM)
 
