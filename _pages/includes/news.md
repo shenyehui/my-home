@@ -1,3 +1,5 @@
+<span id="-news"></span>
+<p>Here is the content of the news section.</p>
 # 🔥 News
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
 - *2023.05*: 🎉 Five papers are accepted by ACL 2023
