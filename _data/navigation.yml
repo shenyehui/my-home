@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/includes/news.md"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/includes/pub.md"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/includes/honers.md"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/includes/others.md"
+    url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
