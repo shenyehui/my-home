@@ -1,3 +1,13 @@
+<head>
+  <style>
+    html {
+      scroll-padding-top: 100px; /* 你可以调整偏移量 */
+    }
+  </style>
+</head>
+
+<span id="news"></span>
+
 # 🔥 News
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
 - *2023.05*: 🎉 Five papers are accepted by ACL 2023
