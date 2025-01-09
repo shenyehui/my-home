@@ -19,19 +19,6 @@ google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
 bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
 baidu_site_verification  : code-ZxFK3f4pfb
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About Me"
-    url: /about.md
-  - title: "News"
-    url: /includes/news.md
-   - title: "Publications"
-    url: /includes/pub.md
-  - title: "Educations"
-    url: /includes/others.md
-  - title: "Honors and Awards"
-    url: /includes/honers.md
     
 # Site Author
 author:
