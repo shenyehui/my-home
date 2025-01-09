@@ -1,10 +1,3 @@
-<head>
-  <style>
-    html {
-      scroll-padding-top: 100px; /* 你可以调整偏移量 */
-    }
-  </style>
-</head>
 
 <span id="news"></span>
 
