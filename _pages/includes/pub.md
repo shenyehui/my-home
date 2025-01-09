@@ -1,4 +1,6 @@
 <span id="publications"></span>
+
+
 # 📝 Publications
 ##  2024
 - ``IEEE Transactions on Robotics(TRO)`` [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://arxiv.org/pdf/2309.08086) 
