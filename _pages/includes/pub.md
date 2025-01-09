@@ -250,8 +250,54 @@
 ## 2021
 - `CoRL 2021` [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf) [![](https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars)](https://github.com/PRBonn/point-cloud-prediction)
 
-## 2020
   Benedikt Mersch, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Multi-scale interaction for real-time lidar data segmentation on an embedded platform](https://arxiv.org/pdf/2008.09162) [![](https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars)](https://github.com/sj-li/MINet)
+
+  Shijie Li, **Xieyuanli Chen**, Yun Liu, Dengxin Dai, Cyrill Stachniss, Juergen Gall
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data](https://arxiv.org/pdf/2105.08971) [![](https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars)](https://github.com/PRBonn/LiDAR-MOS)
+
+  **Xieyuanli Chen**, Shijie Li, Benedikt Mersch, Louis Wiesmann, Jürgen Gall, Jens Behley, Cyrill Stachniss
+  
+- `IEEE Robotics and Automation Letters (RA-L)` [Keypoint matching for point cloud registration using multiplex dynamic graph attention networks](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf) [![](https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars)](https://github.com/nubot-nudt/MDGAT-matcher)
+
+  Chenghao Shi, **Xieyuanli Chen**, Kaihong Huang, Junhao Xiao, Huimin Lu, Cyrill Stachniss
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
+
+  Louis Wiesmann, Andres Milioto, **Xieyuanli Chen**, Cyrill Stachniss, Jens Behley
+- `RSS Pioneer Workshop 2021` [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) 
+
+   **Xieyuanli Chen**
+  
+- ``ICRA 2021`` [Range image-based LiDAR localization for autonomous vehicles](https://arxiv.org/abs/2105.12121) [![](https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/range-mcl)
+
+  **Xieyuanli Chen** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
+  
+- ``ICRA 2021`` [Poisson surface reconstruction for LiDAR odometry and mapping](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
+
+  Ignacio Vizzo, **Xieyuanli Chen**, Nived Chebrolu, Jens Behley, Cyrill Stachniss.
+
+- ``ICRA 2021`` [Simple but effective redundant odometry for autonomous vehicles](https://arxiv.org/pdf/2105.11783) [![](https://img.shields.io/github/stars/PRBonn/MutiverseOdometry?style=social&label=Code+Stars)](https://github.com/PRBonn/MutiverseOdometry)
+
+  Andrzej Reinke, **Xieyuanli Chen**, Cyrill Stachniss
+  
+- `IROS 2021` [Efficient localisation using images and OpenStreetMaps](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf) 
+
+  Mengjie Zhou, **Xieyuanli Chen**, Noe Samano, Cyrill Stachniss, Andrew Calway
+  
+- `ECMR 2021` [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf) 
+
+  Mehul Arora, Louis Wiesmann, **Xieyuanli Chen**, Cyrill Stachniss
+  
+- `ECMR 2021` [Online range image-based pole extractor for long-term lidar localization in urban environments](https://arxiv.org/pdf/2108.08621) [![](https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars)](https://github.com/PRBonn/pole-localization)
+
+  Hao Dong, **Xieyuanli Chen**, Cyrill Stachniss
+  
+## 2020
+
+## 2019
   
 - ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
 
@@ -262,20 +308,13 @@
   **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
   
 
-  
-- ``ICRA 2021`` [Range image-based LiDAR localization for autonomous vehicles](https://arxiv.org/abs/2105.12121) [![](https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/range-mcl)
 
-  **Xieyuanli Chen** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
   
 
   
-- ``ICRA 2021`` [Poisson surface reconstruction for LiDAR odometry and mapping](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
 
-  Ignacio Vizzo, **Xieyuanli Chen**, Nived Chebrolu, Jens Behley, Cyrill Stachniss.
   
-- ``RAL`` [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
 
-  Louis Wiesmann, Andres Milioto, **Xieyuanli Chen**, Cyrill Stachniss, Jens Behley
 
 - `SSRR 2017` [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
    **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
