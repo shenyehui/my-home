@@ -96,6 +96,103 @@
    Jingyi Xu, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, **Xieyuanli Chen**, Wenxian Yu, Ling Pei
 
 ##  2023
+- ``IEEE Transactions on Industrial Informatics(TII)`` [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
+
+  Junyi Ma, Guangming Xiong, Jingyi Xu, **Xieyuanli Chen**
+  
+- ``IEEE Transactions on Industrial Electronics（TIE）`` [360-VIO: A Robust Visual–Inertial Odometry Using a 360° Camera](https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-Odometry-Using-a-360-Camera.pdf) [![](https://img.shields.io/github/stars/Gatsby23/360-VIO?style=social&label=Code+Stars)](https://github.com/Gatsby23/360-VIO)
+
+  Qi Wu, Xiangyu Xu, **Xieyuanli Chen**, Ling Pei, Chao Long, Junyuan Deng, Guoqing Liu, Sheng Yang, Shilei Wen, Wenxian Yu
+
+- ``IEEE Transactions on intelligent transportation systems（TITS）`` [RDMNet: Reliable dense matching based point cloud registration for autonomous driving](https://arxiv.org/pdf/2303.18084)
+
+  Chenghao Shi, **Xieyuanli Chen**, Huimin Lu, Wenbang Deng, Junhao Xiao, Bin Dai
+  
+- ``Journal of Field Robotics (JFR)`` [Geometry‐based flipper motion planning for articulated tracked robots traversing rough terrain in real‐time](https://arxiv.org/pdf/2303.18084)
+
+  Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **Xieyuanli Chen**, Junhao Xiao, Wenqi Wu, Huimin Lu
+  
+- ``IJCV`` [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4) 
+
+  Yucai Bai, Qin Zou, **Xieyuanli Chen**, Lingxi Li, Zhengming Ding, Long Chen
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [CCL: Continual Contrastive Learning for LiDAR Place Recognition](https://arxiv.org/pdf/2303.13952) [![](https://img.shields.io/github/stars/cloudcjf/CCL?style=social&label=Code+Stars)](https://github.com/cloudcjf/CCL)
+
+  Jiafeng Cui, **Xieyuanli Chen**
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Ir-mcl: Implicit representation-based online global localization](https://arxiv.org/pdf/2210.03113) [![](https://img.shields.io/github/stars/PRBonn/ir-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/ir-mcl)
+
+  Haofei Kuang, **Xieyuanli Chen**, Tiziano Guadagnino, Nicky Zimmerman, Jens Behley, Cyrill Stachniss
+  
+- ``IEEE Robotics and Automation Letters (RA-L)`` [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://arxiv.org/pdf/2307.08314) 
+
+  Benedikt Mersch, Tiziano Guadagnino, **Xieyuanli Chen**, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
+
+- ``CVPR 2023`` [Temporal consistent 3D lidar representation learning for semantic perception in autonomous driving](https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Temporal_Consistent_3D_LiDAR_Representation_Learning_for_Semantic_Perception_in_CVPR_2023_paper.pdf) [![](https://img.shields.io/github/stars/PRBonn/TARL?style=social&label=Code+Stars)](https://github.com/PRBonn/TARL)
+
+  Lucas Nunes, Louis Wiesmann, Rodrigo Marcuzzi, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
+  
+- `ICCV 2023` [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) [![](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars)](https://github.com/JunyuanDeng/NeRF-LOAM)
+
+  Junyuan Deng, Qi Wu, **Xieyuanli Chen**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
+    
+- ``RSS 2023`` [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://www.researchgate.net/profile/Cyrill_Stachniss/publication/372792825_ERASOR2_Instance-Aware_Robust_3D_Mapping_of_the_Static_World_in_Dynamic_Scenes/links/65201a10b0df2f20a216393c/ERASOR2-Instance-Aware-Robust-3D-Mapping-of-the-Static-World-in-Dynamic-Scenes.pdf?__cf_chl_tk=H4hn6CSehEkJUimB0.cnEY1.PNbzVM0zV5Anw12IsmI-1736398204-1.0.1.1-rP4ZORj6jdhvXDd9fxFCrezumcdULhJEvG7sOJ4pvIg) [![](https://img.shields.io/github/stars/url-kaist/ERASOR2?style=social&label=Code+Stars)](https://github.com/url-kaist/ERASOR2)
+
+  Hyungtae Lim, Lucas Nunes, Benedikt Mersch, **Xieyunali Chen**, Jens Behley, Hyun Myung, Cyrill Stachniss
+  
+- ``IJCAI 2023`` [PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird's-Eye View](https://arxiv.org/abs/2306.10761) [![](https://img.shields.io/github/stars/EdwardLeeLPZ/PowerBEV?style=social&label=Code+Stars)](https://github.com/EdwardLeeLPZ/PowerBEV)
+
+  Peizheng Li, Shuxiao Ding, **Xieyuanli Chen**, Niklas Hanselmann, Marius Cordts, Juergen Gall
+  
+- ``ICRA 2023`` [Learning-based dimensionality reduction for computing compact and effective local feature descriptors](https://arxiv.org/pdf/2209.13586) [![](https://img.shields.io/github/stars/PRBonn/descriptor-dr?style=social&label=Code+Stars)](https://github.com/PRBonn/descriptor-dr)
+
+  Hao Dong, **Xieyuanli Chen**, Mihai Dusmanu, Viktor Larsson, Marc Pollefeys, Cyrill Stachniss
+  
+- ``IROS 2023`` [Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments](https://arxiv.org/pdf/2303.05304) [![](https://img.shields.io/github/stars/nubot-nudt/T-Hybrid-planner?style=social&label=Code+Stars)](https://github.com/nubot-nudt/T-Hybrid-planner)
+
+  Jiayang Liu, **Xieyuanli Chen**, Junhao Xiao, Sichao Lin, Zhiqiang Zheng, Huimin Lu
+  
+- ``IROS 2023`` [ElC-OIS: Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data](https://arxiv.org/pdf/2303.04351) [![](https://img.shields.io/github/stars/nubot-nudt/ElC-OIS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ElC-OIS)
+
+  Wenbang Deng, Kaihong Huang, Qinghua Yu, Huimin Lu, Zhiqiang Zheng, **Xieyuanli Chen**
+  
+- ``IROS 2023`` [InsMOS: Instance-aware moving object segmentation in LiDAR data](https://arxiv.org/pdf/2303.03909) [![](https://img.shields.io/github/stars/nubot-nudt/InsMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/InsMOS)
+
+  Neng Wang, Chenghao Shi, Ruibin Guo, Huimin Lu, Zhiqiang Zheng, **Xieyuanli Chen**
+
+- ``IROS 2023`` [Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering](https://arxiv.org/pdf/2303.01284) [![](https://img.shields.io/github/stars/dmar-bonn/neu-nbv?style=social&label=Code+Stars)](https://github.com/dmar-bonn/neu-nbv)
+
+  Liren Jin, **Xieyuanli Chen**, Julius Rückin, Marija Popović
+  
+- ``Robotics and Autonomous Systems(RAS)`` [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf) 
+
+  Mehul Arora, Louis Wiesmann, **Xieyuanli Chen**, Cyrill Stachniss
+
+- ``Robotics and Autonomous Systems(RAS)`` [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://arxiv.org/pdf/2208.07364) 
+
+  Hao Dong, **Xieyuanli Chen**, Simo Särkkä, Cyrill Stachniss
+    
+- ``Remote Sensing`` [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616) 
+
+  Hainan Pan, **Xieyuanli Chen**, Junkai Ren, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu
+  
+- ``Remote Sensing`` [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433) 
+
+  Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **Xieyuanli Chen**, Huimin Lu
+  
+- ``Remote Sensing`` [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040) 
+
+  Shunjie Gong, Chenghao Shi, Hui Zhang, Huimin Lu, Zhiwen Zeng, **Xieyuanli Chen**
+  
+- ``ROBIO 2023`` [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/) 
+
+  Yang Yuan, **Xieyuanli Chen**, Chenghao Shi, Yunxiao Lv, Huimin Lu, Junhao Xiao
+  
+- ``CAC 2023`` [A Semantic Segmentation Network Exploiting Multiple Cues and Channel Exchanging](https://ieeexplore.ieee.org/abstract/document/10450711/) 
+
+  Yici Hao, Wenbang Deng, **Xieyuanli Chen**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
+  
+## 2022
 - ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
 
   **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
@@ -135,9 +232,7 @@
 
   Huan Yin, Xuecheng Xu, Sha Lu, **Xieyuanli Chen**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
 
-- `ICCV 2023` [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) [![](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars)](https://github.com/JunyuanDeng/NeRF-LOAM)
 
-  Junyuan Deng, Qi Wu, **Xieyuanli Chen**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
   
 - `IROS 2020` [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
 
@@ -146,10 +241,6 @@
 - ``TIE`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
   Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
-  
-- ``TII`` [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) [![](https://img.shields.io/github/stars/BIT-MJY/CVTNet&label=Code+Stars)](https://github.com/BIT-MJY/CVTNet)
-
-  Junyi Ma, Guangming Xiong, Jingyi Xu, **Xieyuanli Chen**
   
 - ``ICRA 2024`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656) [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
 
