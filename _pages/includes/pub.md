@@ -16,7 +16,7 @@
 
    Jingtao Sun, Yaonan Wang, Mingtao Feng, Xiaofeng Guo, Huimin Lu, **Xieyuanli Chen**
 
-- ``IEEE/ASME Transactions on Mechatronics`` [Efficient and Precise Homo-Hetero Teleoperation Based on an Optimized Upper Limb Exoskeleton](https://www.researchgate.net/profile/Huimin-Lu-3/publication/385488176_Efficient_and_Precise_Homo-Hetero_Teleoperation_Based_on_an_Optimized_Upper_Limb_Exoskeleton/links/6729da3d77f274616d5c789c/Efficient-and-Precise-Homo-Hetero-Teleoperation-Based-on-an-Optimized-Upper-Limb-Exoskeleton.pdf)
+- ``IEEE/ASME Transactions on Mechatronics(TMECH)`` [Efficient and Precise Homo-Hetero Teleoperation Based on an Optimized Upper Limb Exoskeleton](https://www.researchgate.net/profile/Huimin-Lu-3/publication/385488176_Efficient_and_Precise_Homo-Hetero_Teleoperation_Based_on_an_Optimized_Upper_Limb_Exoskeleton/links/6729da3d77f274616d5c789c/Efficient-and-Precise-Homo-Hetero-Teleoperation-Based-on-an-Optimized-Upper-Limb-Exoskeleton.pdf)
 
   Chuang Cheng, Wei Dai, Tuochang Wu, **Xieyuanli Chen**, Meiping Wu, Junzhi Yu, Jie Jiang, Huimin Lu
 
@@ -108,7 +108,7 @@
 
   Chenghao Shi, **Xieyuanli Chen**, Huimin Lu, Wenbang Deng, Junhao Xiao, Bin Dai
   
-- ``Journal of Field Robotics (JFR)`` [Geometry‐based flipper motion planning for articulated tracked robots traversing rough terrain in real‐time](https://arxiv.org/pdf/2303.18084)
+- ``Journal of Field Robotics(JFR)`` [Geometry‐based flipper motion planning for articulated tracked robots traversing rough terrain in real‐time](https://arxiv.org/pdf/2303.18084)
 
   Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **Xieyuanli Chen**, Junhao Xiao, Wenqi Wu, Huimin Lu
   
@@ -116,15 +116,15 @@
 
   Yucai Bai, Qin Zou, **Xieyuanli Chen**, Lingxi Li, Zhengming Ding, Long Chen
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [CCL: Continual Contrastive Learning for LiDAR Place Recognition](https://arxiv.org/pdf/2303.13952) [![](https://img.shields.io/github/stars/cloudcjf/CCL?style=social&label=Code+Stars)](https://github.com/cloudcjf/CCL)
+- ``IEEE Robotics and Automation Letters(RA-L)`` [CCL: Continual Contrastive Learning for LiDAR Place Recognition](https://arxiv.org/pdf/2303.13952) [![](https://img.shields.io/github/stars/cloudcjf/CCL?style=social&label=Code+Stars)](https://github.com/cloudcjf/CCL)
 
   Jiafeng Cui, **Xieyuanli Chen**
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Ir-mcl: Implicit representation-based online global localization](https://arxiv.org/pdf/2210.03113) [![](https://img.shields.io/github/stars/PRBonn/ir-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/ir-mcl)
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Ir-mcl: Implicit representation-based online global localization](https://arxiv.org/pdf/2210.03113) [![](https://img.shields.io/github/stars/PRBonn/ir-mcl?style=social&label=Code+Stars)](https://github.com/PRBonn/ir-mcl)
 
   Haofei Kuang, **Xieyuanli Chen**, Tiziano Guadagnino, Nicky Zimmerman, Jens Behley, Cyrill Stachniss
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://arxiv.org/pdf/2307.08314) 
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://arxiv.org/pdf/2307.08314) 
 
   Benedikt Mersch, Tiziano Guadagnino, **Xieyuanli Chen**, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
 
@@ -193,7 +193,7 @@
   Yici Hao, Wenbang Deng, **Xieyuanli Chen**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
   
 ## 2022
-- ``IEEE Transactions on Industrial Electronics (TIE)`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
+- ``IEEE Transactions on Industrial Electronics(TIE)`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
   Junyi Ma, **Xieyuanli Chen**, Jingyi Xu, Guangming Xiong
   
@@ -201,35 +201,35 @@
 
   **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Jens Behley, Cyrill Stachniss
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/abs/2203.03397) [![](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars)](https://github.com/haomo-ai/OverlapTransformer)
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://arxiv.org/abs/2203.03397) [![](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars)](https://github.com/haomo-ai/OverlapTransformer)
 
   Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Long-term localization using semantic cues in floor plan maps](https://arxiv.org/pdf/2210.01456) 
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Long-term localization using semantic cues in floor plan maps](https://arxiv.org/pdf/2210.01456) 
 
   Nicky Zimmerman, Tiziano Guadagnino, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf)  [![](https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars)](https://github.com/PRBonn/3DUIS)
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf)  [![](https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars)](https://github.com/PRBonn/3DUIS)
 
   Lucas Nunes, **Xieyuanli Chen**, Rodrigo Marcuzzi, Aljosa Osep, Laura Leal-Taixé, Cyrill Stachniss, Jens Behley
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Fast sparse LiDAR odometry using self-supervised feature selection on intensity images](https://iris.uniroma1.it/bitstream/11573/1650161/4/Guadagnino_preprint_Fast_2022.pdf) 
+- `IEEE Robotics and Automation Letters(RA-L)` [Fast sparse LiDAR odometry using self-supervised feature selection on intensity images](https://iris.uniroma1.it/bitstream/11573/1650161/4/Guadagnino_preprint_Fast_2022.pdf) 
 
   Tiziano Guadagnino, **Xieyuanli Chen**, Matteo Sodano, Jens Behley, Giorgio Grisetti, Cyrill Stachniss
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Receding moving object segmentation in 3d lidar data using sparse 4d convolutions](https://arxiv.org/pdf/2206.04129) [![](https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars)](https://github.com/PRBonn/4DMOS)
+- `IEEE Robotics and Automation Letters(RA-L)` [Receding moving object segmentation in 3d lidar data using sparse 4d convolutions](https://arxiv.org/pdf/2206.04129) [![](https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars)](https://github.com/PRBonn/4DMOS)
 
   Benedikt Mersch, **Xieyuanli Chen**, Ignacio Vizzo, Lucas Nunes, Jens Behley, Cyrill Stachniss
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://arxiv.org/abs/2208.07473) [![](https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars)](https://github.com/YungeCui/BoW3D)
+- `IEEE Robotics and Automation Letters(RA-L)` [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://arxiv.org/abs/2208.07473) [![](https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars)](https://github.com/YungeCui/BoW3D)
 
   Yunge Cui, **Xieyuanli Chen**, Yinlong Zhang, Jiahua Dong, Qingxiao Wu, Feng Zhu
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Automatic labeling to generate training data for online LiDAR-based moving object segmentation](https://arxiv.org/pdf/2201.04501) 
+- `IEEE Robotics and Automation Letters(RA-L)` [Automatic labeling to generate training data for online LiDAR-based moving object segmentation](https://arxiv.org/pdf/2201.04501) 
 
   **Xieyuanli Chen**, Benedikt Mersch, Lucas Nunes, Rodrigo Marcuzzi, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view?pli=1) [![](https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars)](https://github.com/PRBonn/segcontrast)
+- `IEEE Robotics and Automation Letters(RA-L)` [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view?pli=1) [![](https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars)](https://github.com/PRBonn/segcontrast)
 
   Lucas Nunes, Rodrigo Marcuzzi, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
   
@@ -250,19 +250,19 @@
 
   Benedikt Mersch, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Multi-scale interaction for real-time lidar data segmentation on an embedded platform](https://arxiv.org/pdf/2008.09162) [![](https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars)](https://github.com/sj-li/MINet)
+- `IEEE Robotics and Automation Letters(RA-L)` [Multi-scale interaction for real-time lidar data segmentation on an embedded platform](https://arxiv.org/pdf/2008.09162) [![](https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars)](https://github.com/sj-li/MINet)
 
   Shijie Li, **Xieyuanli Chen**, Yun Liu, Dengxin Dai, Cyrill Stachniss, Juergen Gall
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data](https://arxiv.org/pdf/2105.08971) [![](https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars)](https://github.com/PRBonn/LiDAR-MOS)
+- `IEEE Robotics and Automation Letters(RA-L)` [Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data](https://arxiv.org/pdf/2105.08971) [![](https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars)](https://github.com/PRBonn/LiDAR-MOS)
 
   **Xieyuanli Chen**, Shijie Li, Benedikt Mersch, Louis Wiesmann, Jürgen Gall, Jens Behley, Cyrill Stachniss
   
-- `IEEE Robotics and Automation Letters (RA-L)` [Keypoint matching for point cloud registration using multiplex dynamic graph attention networks](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf) [![](https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars)](https://github.com/nubot-nudt/MDGAT-matcher)
+- `IEEE Robotics and Automation Letters(RA-L)` [Keypoint matching for point cloud registration using multiplex dynamic graph attention networks](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf) [![](https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars)](https://github.com/nubot-nudt/MDGAT-matcher)
 
   Chenghao Shi, **Xieyuanli Chen**, Kaihong Huang, Junhao Xiao, Huimin Lu, Cyrill Stachniss
   
-- ``IEEE Robotics and Automation Letters (RA-L)`` [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
+- ``IEEE Robotics and Automation Letters(RA-L)`` [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
 
   Louis Wiesmann, Andres Milioto, **Xieyuanli Chen**, Cyrill Stachniss, Jens Behley
 - `RSS Pioneer Workshop 2021` [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) 
