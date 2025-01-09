@@ -309,6 +309,7 @@
 - `IEEE Access` [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
 
   Wenbang Deng, Kaihong Huang, **Xieyuanli Chen**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
+  
 ## 2019
 - ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
 
