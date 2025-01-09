@@ -2,11 +2,15 @@
 main:
   - title: "About Me"
     url: /about.md
+    
   - title: "News"
     url: /includes/news.md
-   - title: "Publications"
+   
+  - title: "Publications"
     url: /includes/pub.md
+  
   - title: "Educations"
     url: /includes/others.md
+  
   - title: "Honors and Awards"
     url: /includes/honers.md
