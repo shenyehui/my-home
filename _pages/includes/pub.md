@@ -36,7 +36,7 @@
 
   Changxiang Liu, Hongshan Yu, Panfei Cheng, Wei Sun, Javier Civera, **Xieyuanli Chen**
 
-- ``AAAI 2024`` [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475) [![](https://img.shields.io/github/stars/ORCAUboat/RadarMOSEVE?style=social&label=Code+Stars)](https://github.com/ORCAUboat/RadarMOSEVE)
+- ``AAAI 2024`` [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475) 
 
   Changsong Pang, **Xieyuanli Chen**, Yimin Liu, Huimin Lu, Yuwei Cheng
   
@@ -70,7 +70,7 @@
 
 - ``ICRA 2024`` [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://arxiv.org/pdf/2404.01587) [![](https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/TSCM)
 
-Yehui Shen, Mingmin Liu, Huimin Lu, **Xieyuanli Chen**
+  Yehui Shen, Mingmin Liu, Huimin Lu, **Xieyuanli Chen**
   
 - ``ICRA 2024`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/pdf/2211.15656)  [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
 
