@@ -1,4 +1,4 @@
-<span id="-educations"></span>
+<span id="educations"></span>
 # 📖 Educations
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2018.09 - 2022.08, Bonn, Germany</strong> Dr.‑Ing. (Ph.D. in Engineering) ‑ summa cum laude (with distinction, best possible grade)<br>
