@@ -244,8 +244,6 @@
 - `IROS 2022` [Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation](https://arxiv.org/pdf/2207.02201) [![](https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars)](https://github.com/haomo-ai/MotionSeg3D)
 
   Jiadai Sun, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, **Xieyuanli Chen**
-
-
   
 ## 2021
 - `CoRL 2021` [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf) [![](https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars)](https://github.com/PRBonn/point-cloud-prediction)
@@ -297,97 +295,63 @@
   
 ## 2020
 
-## 2019
-  
-- ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
-
-  **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
-   
 - ``RSS 2020`` [OverlapNet: Loop Closing for LiDAR-based SLAM](https://arxiv.org/abs/2105.11344) [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
 
   **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
-  
-
-
-  
-
-  
-
-  
-
-
-- `SSRR 2017` [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
-   **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
-  
-
   
 - `IROS 2020` [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
 
   **Xieyuanli Chen**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
   
+- `CAC 2020` [Rgb-d based semantic slam framework for rescue robot](https://ieeexplore.ieee.org/abstract/document/9326866/) 
 
+  Wenbang Deng, Kaihong Huang, **Xieyuanli Chen**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
   
-- ``ICRA 2024`` [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656) [![](https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars)](https://github.com/haomo-ai/SuperFusion)
+- `IEEE Access` [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
 
-  Hao Dong, Weihao Gu, Xianjing Zhang, Jintao Xu, Rui Ai, Huimin Lu, Juho Kannala, **Xieyuanli Chen**
+  Wenbang Deng, Kaihong Huang, **Xieyuanli Chen**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
+## 2019
+- ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
+
+  **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
+
+## 2018
+- ``ICIA 2018`` [Target-based robot autonomous exploration in rescue environments](https://ieeexplore.ieee.org/abstract/document/8812524/) 
+
+   Qihang Qiu, **Xieyuanli Chen**, Zhiwen Zeng, Junhao Xiao, Hui Zhang
   
-- ``IJARS 2018`` [Distributed and collaborative monocular simultaneous localization and mapping for multi-robot systems in large-scale environments](https://journals.sagepub.com/doi/pdf/10.1177/1729881418780178)
+- ``ICIA 2018`` [Scale-aware monocular SLAM based on convolutional neural network](https://www.researchgate.net/profile/Huimin-Lu-3/publication/326972730_Scale-aware_Monocular_SLAM_Based_on_Convolutional_Neural_Network/links/5b6e9476299bf14c6d992562/Scale-aware-Monocular-SLAM-Based-on-Convolutional-Neural-Network.pdf) 
 
-  Hui Zhang, **Xieyuanli Chen**, Huimin Lu, Junhao Xiao
+   Yi Li, Chenggang Xie, Huimin Lu, **Xieyuanli Chen**, Junhao Xiao, Hui Zhang
+
+- ``CYBER 2018`` [Distributed monocular multi-robot slam](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/324991849_Distributed_monocular_multi-robot_SLAM/links/5af0644faca272bf42519c08/Distributed-monocular-multi-robot-SLAM.pdf) 
+
+   **Xieyuanli Chen**, Huimin Lu, Junhao Xiao, Hui Zhang
   
-- ``ECMR 2021`` [Online range image-based pole extractor for long-term lidar localization in urban environments](https://arxiv.org/abs/2108.08621)
- 
-  Hao Dong, **Xieyuanli Chen**, Cyrill Stachniss
-   
-- ``RAL`` [Long-term localization using semantic cues in floor plan maps](https://arxiv.org/abs/2210.01456) 
+- ``International Journal of Advanced Robotic Systems`` [Distributed and collaborative monocular simultaneous localization and mapping for multi-robot systems in large-scale environments](https://journals.sagepub.com/doi/pdf/10.1177/1729881418780178) 
 
-  Nicky Zimmerman, Tiziano Guadagnino, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
-- ``ACL 2022`` [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/abs/2202.13066), **Yi Ren**, Xu Tan, Tao Qin, et al.
-- ``ACL 2022`` [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
-- ``ICASSP 2022`` [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao
-- ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/denoispeech/)
-- ``ACM-MM 2021`` [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358), Rongjie Huang, Feiyang Chen, **Yi Ren**, et al. <span style="color:red">(Oral)</span>
-- ``IJCAI 2021`` [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527), Ziyue Jiang, **Yi Ren**, et al.
-- ``KDD 2020`` [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, et al. \| [**Project**](https://speechresearch.github.io/deepsinger/)
-- ``KDD 2020`` [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/lrspeech/)
-- ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/multispeech/)
-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+   Hui Zhang, **Xieyuanli Chen**, Huimin Lu, Junhao Xiao
 
-## 👄 TalkingFace & Avatar
+## 2017
+- `SSRR 2017` [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
+   **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
+  
+- `ICVS 2017` [Robust relocalization based on active loop closure for real-time monocular SLAM](https://www.researchgate.net/profile/Huimin-Lu-3/publication/318307400_Robust_Relocalization_Based_on_Active_Loop_Closure_for_Real-Time_Monocular_SLAM/links/5961da94a6fdccc9b12a4bb9/Robust-Relocalization-Based-on-Active-Loop-Closure-for-Real-Time-Monocular-SLAM.pdf)
+   **Xieyuanli Chen**, Huimin Lu, Junhao Xiao, Hui Zhang, Pan Wang
+  
+## 2016
+- ``ICIA 2016`` [The design of a fully autonomous robot system for urban search and rescue](https://www.trustie.net/attachments/download/151509/481_Final_Paper_PDF.pdf) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+    Yi Liu, Yuhua Zhong, **Xieyuanli Chen**, Pan Wang, Huimin Lu, Junhao Xiao, Hui Zhang
 
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
-</div>
-</div>
+## 2015
 
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
+- ``ICIA 2015`` [Three-dimensional path planning based on ant colony algorithm with potential field for rotary-wing flying robot](https://ieeexplore.ieee.org/abstract/document/7279722/) 
 
-## 📚 Machine Translation 
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
+  Jianhao Tan, Chu Wang, Yaonan Wang, **Xieyuanli Chen**, Yiwei Zhang, Yuanyuan Wang
+
+- ``ICIA 2015`` [Fuzzy radial basis function neural network PID control system for a quadrotor UAV based on particle swarm optimization](https://ieeexplore.ieee.org/abstract/document/7279720/) 
+
+  Yaonan Wang, **Xieyuanli Chen**, Jianhao Tan, Chu Wang, Yuanyuan Wang, Yiwei Zhang
 
 
-## 🎼 Music & Dance Generation 
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
-
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
-## Others
-- `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
