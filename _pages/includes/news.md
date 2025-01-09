@@ -1,4 +1,4 @@
-<span id="-news"></span>
+<span id="news"></span>
 
 # 🔥 News
 - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
