@@ -11,3 +11,4 @@ I am founded by Young Elite Scientists Sponsorship Program by CAST ([website](ht
 
 I'm recruiting PhD students in robot perception and navigation. If you’re interested in joining my team, please send me your CV and a brief statement via e-mail [chenxieyuanli@hotmail.com](chenxieyuanli@hotmail.com).
 
+<span id="news"></span>
