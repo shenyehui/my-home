@@ -32,7 +32,7 @@
   <!-- 第一个人物框 -->
   <div style="border: 1px solid #ccc; padding: 10px; text-align: center; width: 150px;">
     <a href="https://shenyehui.github.io/" target="_blank" style="text-decoration: none; color: black;">
-      <img src="images/students-shenyehui.png" alt="Person 1" style="width: 100px; height: 100px; border-radius: 50%;"><br>
+      <img src="../../images/students-shenyehui.png" alt="Person 1" style="width: 100px; height: 100px; border-radius: 50%;"><br>
       Yehui Shen(沈业辉)<br>
       <span style="font-size: 90%;">Robotics</span>
     </a>
