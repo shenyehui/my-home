@@ -27,7 +27,6 @@
 <span id="Team"></span>
 
 # 💻 Team
-# 人物信息
 ## Ph.D.
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- 第一个人物框 -->
