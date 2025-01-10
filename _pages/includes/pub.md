@@ -201,7 +201,7 @@
 
   Lucas Nunes, Louis Wiesmann, Rodrigo Marcuzzi, **Xieyuanli Chen**, Jens Behley, Cyrill Stachniss
   
-- `ICCV 2023` [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) [![](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars)](https://github.com/JunyuanDeng/NeRF-LOAM)
+- [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf) [![](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars)](https://github.com/JunyuanDeng/NeRF-LOAM)
 
   *In Proc. of the IEEE/CVF Intl. Conf. on Computer Vision **(ICCV 2023)***
   
@@ -292,7 +292,7 @@
   Yici Hao, Wenbang Deng, **Xieyuanli Chen**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
   
 ## 2022
-- ``IEEE Transactions on Industrial Electronics(TIE)`` [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
+- [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://arxiv.org/abs/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
   *IEEE Transactions on Industrial Electronics **(T-IE)***
 
@@ -364,7 +364,7 @@
   
   Jingtao Sun, Yaonan Wang, Mingtao Feng, Danwei Wang, Jiawen Zhao, Cyrill Stachniss, **Xieyuanli Chen**
   
-- `IROS 2022` [Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation](https://arxiv.org/pdf/2207.02201) [![](https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars)](https://github.com/haomo-ai/MotionSeg3D)
+- [Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation](https://arxiv.org/pdf/2207.02201) [![](https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars)](https://github.com/haomo-ai/MotionSeg3D)
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2022)***
   
@@ -451,7 +451,7 @@
 
   **Xieyuanli Chen**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
   
-- `IROS 2020` [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
+- [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://arxiv.org/abs/2105.11717) [![](https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars)](https://github.com/PRBonn/overlap_localization)
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2020)***
   
@@ -470,7 +470,7 @@
   Wenbang Deng, Kaihong Huang, **Xieyuanli Chen**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
   
 ## 2019
-- ``IROS 2019`` [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
+- [SuMa++: Efficient LiDAR-based Semantic SLAM](https://arxiv.org/abs/2105.11320) [![](https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars)](https://github.com/PRBonn/semantic_suma)
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2019)***
   
