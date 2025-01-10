@@ -153,7 +153,7 @@
 
   Junyi Ma, Guangming Xiong, Jingyi Xu, **Xieyuanli Chen**
   
-- ``IEEE Transactions on Industrial Electronics（TIE）`` [360-VIO: A Robust Visual–Inertial Odometry Using a 360° Camera](https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-Odometry-Using-a-360-Camera.pdf) [![](https://img.shields.io/github/stars/Gatsby23/360-VIO?style=social&label=Code+Stars)](https://github.com/Gatsby23/360-VIO)
+- [360-VIO: A Robust Visual–Inertial Odometry Using a 360° Camera](https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-Odometry-Using-a-360-Camera.pdf) [![](https://img.shields.io/github/stars/Gatsby23/360-VIO?style=social&label=Code+Stars)](https://github.com/Gatsby23/360-VIO)
 
   *IEEE Transactions on Industrial Electronics  **(T-IE)***
   
@@ -225,7 +225,7 @@
   
   Hao Dong, **Xieyuanli Chen**, Mihai Dusmanu, Viktor Larsson, Marc Pollefeys, Cyrill Stachniss
   
-- ``IROS 2023`` [Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments](https://arxiv.org/pdf/2303.05304) [![](https://img.shields.io/github/stars/nubot-nudt/T-Hybrid-planner?style=social&label=Code+Stars)](https://github.com/nubot-nudt/T-Hybrid-planner)
+- [Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments](https://arxiv.org/pdf/2303.05304) [![](https://img.shields.io/github/stars/nubot-nudt/T-Hybrid-planner?style=social&label=Code+Stars)](https://github.com/nubot-nudt/T-Hybrid-planner)
 
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2023)***
 
@@ -279,14 +279,16 @@
   
   Shunjie Gong, Chenghao Shi, Hui Zhang, Huimin Lu, Zhiwen Zeng, **Xieyuanli Chen**
   
-- ``ROBIO 2023`` [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/) 
+- [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/) 
 
   *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2023)***
   
   Yang Yuan, **Xieyuanli Chen**, Chenghao Shi, Yunxiao Lv, Huimin Lu, Junhao Xiao
   
-- ``CAC 2023`` [A Semantic Segmentation Network Exploiting Multiple Cues and Channel Exchanging](https://ieeexplore.ieee.org/abstract/document/10450711/) 
+- [A Semantic Segmentation Network Exploiting Multiple Cues and Channel Exchanging](https://ieeexplore.ieee.org/abstract/document/10450711/) 
 
+  *Chinese Automation Congress **(CAC 2023)***
+  
   Yici Hao, Wenbang Deng, **Xieyuanli Chen**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
   
 ## 2022
