@@ -395,7 +395,7 @@
   
   Chenghao Shi, **Xieyuanli Chen**, Kaihong Huang, Junhao Xiao, Huimin Lu, Cyrill Stachniss
   
-- [Deep compression for dense point cloud maps]([https://openreview.net/forum?id=SbR9mpTuBn](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf)) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
+- [Deep compression for dense point cloud maps](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf) [![](https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars)](https://github.com/PRBonn/deep-point-map-compression)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
