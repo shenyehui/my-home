@@ -188,7 +188,7 @@
   
   Haofei Kuang, **<u>Xieyuanli Chen</u>**, Tiziano Guadagnino, Nicky Zimmerman, Jens Behley, Cyrill Stachniss
   
-- [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://ieeexplore.ieee.org/abstract/document/10173578)  [PDF](https://arxiv.org/pdf/2307.08314) 
+- [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://ieeexplore.ieee.org/abstract/document/10173578)  [[PDF]](https://arxiv.org/pdf/2307.08314) 
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
