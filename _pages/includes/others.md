@@ -1,6 +1,5 @@
 <span id="educations"></span>
 
-
 # 📖 Educations
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2018.09 - 2022.08, Bonn, Germany</strong> Dr.‑Ing. (Ph.D. in Engineering) ‑ summa cum laude (with distinction, best possible grade)<br>
@@ -17,14 +16,7 @@
   <span style="font-size: 90%;">Hunan University, SUPERVISOR: Prof. Dr. Jianhao Tan </span><br>
   <span style="font-size: 90%;">THESIS: Control for a Quadrotor UVA</span>
   </p>
-
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
-
-<span id="Team"></span>
+  
 
 # 💻 Team
 ## Ph.D.
