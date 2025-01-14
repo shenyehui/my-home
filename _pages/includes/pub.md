@@ -92,7 +92,7 @@
 
   Junyi Ma, **<u>Xieyuanli Chen</u>**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
   
-- [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.html)  [[PDF]] (https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf)
+- [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.html)  [[PDF]](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf)
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
 
