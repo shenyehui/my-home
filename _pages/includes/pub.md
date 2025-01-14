@@ -6,7 +6,7 @@
 
   *IEEE Transactions on Robotics (**T-RO**)*
   
-  Chenghao Shi, **Xieyuanli Chen**, Junhao Xiao, Bin Dai, Huimin Lu
+  Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
 
 - [Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf) [![](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc?style=social&label=Code+Stars)](https://github.com/haomo-ai/Cam4DOcc)
 
