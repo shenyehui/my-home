@@ -29,7 +29,7 @@
   <span style="font-size: 90%;">University of Bonn </span>
   </p>
   
-## RESEARCH COMMiTTEE MEMBERSHiP
+## RESEARCH COMMITTEE MEMBERSHiP
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.09 ‑ Present</strong> Associate Editor <br>
   <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
