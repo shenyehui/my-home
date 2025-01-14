@@ -20,7 +20,7 @@
   
   Chuang Cheng, Wei Dai, Tuochang Wu, **<u>Xieyuanli Chen</u>**, Meiping Wu, Junzhi Yu, Jie Jiang, Huimin Lu
 
-- [CV-MOS: A Cross-View Model for Motion Segmentation](https://ieeexplore.ieee.org/abstract/document/10677454/)  [[PDF]](https://arxiv.org/pdf/2408.13790)  [![](https://img.shields.io/github/stars/SCNU-RISLAB/CV-MOS?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/CV-MOS
+- [CV-MOS: A Cross-View Model for Motion Segmentation](https://ieeexplore.ieee.org/abstract/document/10677454/)  [[PDF]](https://arxiv.org/pdf/2408.13790)  [![](https://img.shields.io/github/stars/SCNU-RISLAB/CV-MOS?style=social&label=Code+Stars)](https://github.com/SCNU-RISLAB/CV-MOS)
 
   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
