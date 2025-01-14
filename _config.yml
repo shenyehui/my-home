@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xieyuanli Chen (陈谢沅澧)"
+title                    : "Xieyuanli Chen"
 description              : "Associate Professor at NUDT."
 repository               : "shenyehui/my-home"
 google_scholar_stats_use_cdn : true
@@ -22,9 +22,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
     
 # Site Author
 author:
-  name             : "Xieyuanli Chen (陈谢沅澧)"
+  name             : "Xieyuanli Chen"
   avatar           : "images/my-photo-new.png"
-  bio              : #"NUDT"
+  bio              : "陈谢沅澧"
   location         : "China"
   employer         :
   pubmed           : 
