@@ -475,44 +475,6 @@
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2019)***
   
   **Xieyuanli Chen**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
-
-## 2018
-- [Target-based robot autonomous exploration in rescue environments](https://ieeexplore.ieee.org/abstract/document/8812524/) 
-
-  *International Conference on Information and Automation **(ICIA 2018)***
-  
-  Qihang Qiu, **Xieyuanli Chen**, Zhiwen Zeng, Junhao Xiao, Hui Zhang
-  
-- [Scale-aware monocular SLAM based on convolutional neural network](https://www.researchgate.net/profile/Huimin-Lu-3/publication/326972730_Scale-aware_Monocular_SLAM_Based_on_Convolutional_Neural_Network/links/5b6e9476299bf14c6d992562/Scale-aware-Monocular-SLAM-Based-on-Convolutional-Neural-Network.pdf) 
-
-  *International Conference on Information and Automation **(ICIA 2018)***
-  
-   Yi Li, Chenggang Xie, Huimin Lu, **Xieyuanli Chen**, Junhao Xiao, Hui Zhang
-
-- [Distributed monocular multi-robot slam](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/324991849_Distributed_monocular_multi-robot_SLAM/links/5af0644faca272bf42519c08/Distributed-monocular-multi-robot-SLAM.pdf)
- 
-   *IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems **(CYBER 2018)***
-
-  **Xieyuanli Chen**, Huimin Lu, Junhao Xiao, Hui Zhang
-  
-- [Distributed and collaborative monocular simultaneous localization and mapping for multi-robot systems in large-scale environments](https://journals.sagepub.com/doi/pdf/10.1177/1729881418780178)
-  
-   *International Journal of Advanced Robotic Systems *(IJARS)***
-
-   Hui Zhang, **Xieyuanli Chen**, Huimin Lu, Junhao Xiao
-
-## 2017
-- [Robust SLAM system based on monocular vision and LiDAR for robotic urban search and rescue](https://www.researchgate.net/profile/Huimin-Lu-3/publication/320747009_Robust_SLAM_system_based_on_monocular_vision_and_LiDAR_for_robotic_urban_search_and_rescue/links/59fc7f99aca272347a214da6/Robust-SLAM-system-based-on-monocular-vision-and-LiDAR-for-robotic-urban-search-and-rescue.pdf)
-
-   *IEEE International Workshop on Safety, Security, and Rescue Robotics **(SSRR 2017)***
-  
-   **Xieyuanli Chen**, Hui Zhang, Huimin Lu, Junhao Xiao, Qihang Qiu, Yi Li
-  
-- [Robust relocalization based on active loop closure for real-time monocular SLAM](https://www.researchgate.net/profile/Huimin-Lu-3/publication/318307400_Robust_Relocalization_Based_on_Active_Loop_Closure_for_Real-Time_Monocular_SLAM/links/5961da94a6fdccc9b12a4bb9/Robust-Relocalization-Based-on-Active-Loop-Closure-for-Real-Time-Monocular-SLAM.pdf)
-
-  *International Conference on Computer Vision Systems **(ICVS 2017)***
-  
-  **Xieyuanli Chen**, Huimin Lu, Junhao Xiao, Hui Zhang, Pan Wang
   
 
 
