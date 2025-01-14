@@ -450,11 +450,6 @@
   Hao Dong, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
   
 ## 2020
-- `[Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
-
-  *IEEE Access*
-
-  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
 
 - [OverlapNet: Loop Closing for LiDAR-based SLAM](https://roboticsconference.org/2020/program/papers/9.html) [[PDF]](https://arxiv.org/pdf/2105.11344) [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
   
@@ -467,6 +462,12 @@
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2020)***
   
   **<u>Xieyuanli Chen</u>**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
+
+- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+
+  *IEEE Access*
+
+  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
   
 - [Rgb-d based semantic slam framework for rescue robot](https://ieeexplore.ieee.org/abstract/document/9326866/) 
 
