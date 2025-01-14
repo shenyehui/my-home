@@ -28,6 +28,24 @@
   <strong>2019.09 ‑ 2022.09</strong> Research Assistant<br>
   <span style="font-size: 90%;">University of Bonn </span>
   </p>
+  
+## RESEARCH COMMiTTEE MEMBERSHiP
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2022.09 ‑ Present</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2023, 2024, 2025</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Intl. Conf. on Robotics & Automation (ICRA) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2023, 2024</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE/RSJ Intl. Conf. on Intelligent Robots & Systems (IROS) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2019.07 ‑ 2023.07</strong> Technical Committee <br>
+  <span style="font-size: 90%;">RoboCup Rescue Robot League </span>
+  </p>
 
 
 <span id="Team"></span>
