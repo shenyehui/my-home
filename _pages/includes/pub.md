@@ -8,23 +8,11 @@
   
   Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
 
-- [Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf) [![](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc?style=social&label=Code+Stars)](https://github.com/haomo-ai/Cam4DOcc)
-
-  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
-
-  Junyi Ma, **<u>Xieyuanli Chen</u>**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
-  
-- [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf)
-
-  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
-
-  Rong Li, Shijie Li, **<u>Xieyuanli Chen</u>**, Teli Ma, Juergen Gall, Junwei Liang
-  
 - [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715)
 
-   *IEEE Transactions on Multimedia **(T-MM)***
+  *IEEE Transactions on Multimedia **(T-MM)***
   
-   Jingtao Sun, Yaonan Wang, Mingtao Feng, Xiaofeng Guo, Huimin Lu, **<u>Xieyuanli Chen</u>**
+  Jingtao Sun, Yaonan Wang, Mingtao Feng, Xiaofeng Guo, Huimin Lu, **<u>Xieyuanli Chen</u>**
 
 - [Efficient and Precise Homo-Hetero Teleoperation Based on an Optimized Upper Limb Exoskeleton](https://www.researchgate.net/profile/Huimin-Lu-3/publication/385488176_Efficient_and_Precise_Homo-Hetero_Teleoperation_Based_on_an_Optimized_Upper_Limb_Exoskeleton/links/6729da3d77f274616d5c789c/Efficient-and-Precise-Homo-Hetero-Teleoperation-Based-on-an-Optimized-Upper-Limb-Exoskeleton.pdf)
 
@@ -36,8 +24,7 @@
 
   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
-  Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **<u>Xieyuanli Chen</u>**, Jin Wu, Bohuan Xue
-  
+   Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **<u>Xieyuanli Chen</u>**, Jin Wu, Bohuan Xue
 - [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/)  [![](https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars)](https://github.com/nubot-nudt/SFEMOS)
 
   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
@@ -55,13 +42,13 @@
   *IEEE Transactions on Intelligent Vehicles **(T-IV)***
   
   Changxiang Liu, Hongshan Yu, Panfei Cheng, Wei Sun, Javier Civera, **<u>Xieyuanli Chen</u>**
-
-- [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475) 
-
-  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI, 2024)***
-
-  Changsong Pang, **<u>Xieyuanli Chen</u>**, Yimin Liu, Huimin Lu, Yuwei Cheng
   
+- [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
+
+  *Intl. Journal of Computer Vision **(IJCV)***
+  
+  Huan Yin, Xuecheng Xu, Sha Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
+
 - [GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://arxiv.org/pdf/2408.07917)  [![](https://img.shields.io/github/stars/yutongwangBIT/GOReloc?style=social&label=Code+Stars)](https://github.com/yutongwangBIT/GOReloc)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
@@ -97,13 +84,26 @@
   *Artificial Intelligence Review*
   
   Kan Luo, Hongshan Yu, **<u>Xieyuanli Chen</u>**, Zhengeng Yang, Jingwen Wang, Panfei Cheng, Ajmal Mian
-  
-- [A survey on global lidar localization: Challenges, advances and open problems](https://arxiv.org/abs/2302.07433)
+ 
+- [Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf) [![](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc?style=social&label=Code+Stars)](https://github.com/haomo-ai/Cam4DOcc)
 
-  *Intl. Journal of Computer Vision **(IJCV)***
-  
-  Huan Yin, Xuecheng Xu, Sha Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
 
+  Junyi Ma, **<u>Xieyuanli Chen</u>**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
+  
+- [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf)
+
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
+
+  Rong Li, Shijie Li, **<u>Xieyuanli Chen</u>**, Teli Ma, Juergen Gall, Junwei Liang
+  
+
+- [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475) 
+
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI, 2024)***
+
+  Changsong Pang, **<u>Xieyuanli Chen</u>**, Yimin Liu, Huimin Lu, Yuwei Cheng
+  
 - [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://arxiv.org/pdf/2404.01587) [![](https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/TSCM)
  
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
@@ -195,6 +195,37 @@
   
   Benedikt Mersch, Tiziano Guadagnino, **<u>Xieyuanli Chen</u>**, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
 
+
+- [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf) 
+  
+  *IEEE Robotics and Autonomous Systems **(RAS)***
+
+  Mehul Arora, Louis Wiesmann, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
+
+- [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://arxiv.org/pdf/2208.07364) 
+
+  *IEEE Robotics and Autonomous Systems **(RAS)***
+  
+  Hao Dong, **<u>Xieyuanli Chen</u>**, Simo Särkkä, Cyrill Stachniss
+    
+- [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616) 
+
+  *Remote Sensing*
+  
+  Hainan Pan, **<u>Xieyuanli Chen</u>**, Junkai Ren, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu
+  
+- [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433) 
+
+  *Remote Sensing*
+  
+  Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
+  
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040) 
+
+  *Remote Sensing*
+  
+  Shunjie Gong, Chenghao Shi, Hui Zhang, Huimin Lu, Zhiwen Zeng, **<u>Xieyuanli Chen</u>**
+  
 - [Temporal consistent 3D lidar representation learning for semantic perception in autonomous driving](https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Temporal_Consistent_3D_LiDAR_Representation_Learning_for_Semantic_Perception_in_CVPR_2023_paper.pdf) [![](https://img.shields.io/github/stars/PRBonn/TARL?style=social&label=Code+Stars)](https://github.com/PRBonn/TARL)
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2023)***
@@ -249,35 +280,6 @@
   
   Liren Jin, **<u>Xieyuanli Chen</u>**, Julius Rückin, Marija Popović
   
-- [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf) 
-  
-  *IEEE Robotics and Autonomous Systems **(RAS)***
-
-  Mehul Arora, Louis Wiesmann, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
-
-- [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://arxiv.org/pdf/2208.07364) 
-
-  *IEEE Robotics and Autonomous Systems **(RAS)***
-  
-  Hao Dong, **<u>Xieyuanli Chen</u>**, Simo Särkkä, Cyrill Stachniss
-    
-- [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616) 
-
-  *Remote Sensing*
-  
-  Hainan Pan, **<u>Xieyuanli Chen</u>**, Junkai Ren, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu
-  
-- [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433) 
-
-  *Remote Sensing*
-  
-  Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
-  
-- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040) 
-
-  *Remote Sensing*
-  
-  Shunjie Gong, Chenghao Shi, Hui Zhang, Huimin Lu, Zhiwen Zeng, **<u>Xieyuanli Chen</u>**
   
 - [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/) 
 
@@ -371,12 +373,6 @@
   Jiadai Sun, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, **<u>Xieyuanli Chen</u>**
   
 ## 2021
-- [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf) [![](https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars)](https://github.com/PRBonn/point-cloud-prediction)
-
-  *In Proc. of the Conf. on Robot Learning **(CoRL 2021)***
-  
-  Benedikt Mersch, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
-  
 - [Multi-scale interaction for real-time lidar data segmentation on an embedded platform](https://arxiv.org/pdf/2008.09162) [![](https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars)](https://github.com/sj-li/MINet)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
@@ -400,6 +396,12 @@
   *IEEE Robotics and Automation Letters **(RA-L)***
   
   Louis Wiesmann, Andres Milioto, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss, Jens Behley
+  
+- [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf) [![](https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars)](https://github.com/PRBonn/point-cloud-prediction)
+
+  *In Proc. of the Conf. on Robot Learning **(CoRL 2021)***
+  
+  Benedikt Mersch, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
   
 - [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) 
 
@@ -444,6 +446,11 @@
   Hao Dong, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
   
 ## 2020
+- `[Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+
+  *IEEE Access*
+
+  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
 
 - [OverlapNet: Loop Closing for LiDAR-based SLAM](https://arxiv.org/abs/2105.11344) [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
   
@@ -461,12 +468,6 @@
 
   *Chinese Automation Congress **(CAC 2020)***
   
-  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
-  
-- `[Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
-
-  *IEEE Access*
-
   Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
   
 ## 2019
