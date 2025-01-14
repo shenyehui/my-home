@@ -2,7 +2,7 @@
 
 # 📝 Publications
 ##  2024
-- [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://arxiv.org/pdf/2309.08086) 
+- [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/) [PDF](https://arxiv.org/pdf/2309.08086) 
 
   *IEEE Transactions on Robotics (**T-RO**)*
   
