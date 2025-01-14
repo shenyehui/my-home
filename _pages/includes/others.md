@@ -19,7 +19,7 @@
 
 <span id="experience"></span>
 # 💬 Research Experience
-## ACADEMiC WORKiNG EXPERiENCE
+## ACADEMiC WORKiNG EXPERIENCE
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.12 ‑ Present</strong> Associate Professor<br>
   <span style="font-size: 90%;">National University of Defense Technology </span>
@@ -29,7 +29,7 @@
   <span style="font-size: 90%;">University of Bonn </span>
   </p>
   
-## RESEARCH COMMITTEE MEMBERSHiP
+## RESEARCH COMMITTEE MEMBERSHIP
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.09 ‑ Present</strong> Associate Editor <br>
   <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
