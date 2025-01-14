@@ -16,8 +16,21 @@
   <span style="font-size: 90%;">Hunan University, SUPERVISOR: Prof. Dr. Jianhao Tan </span><br>
   <span style="font-size: 90%;">THESIS: Control for a Quadrotor UVA</span>
   </p>
-  
 
+<span id="experience"></span>
+# 💬 Research Experience
+## ACADEMiC WORKiNG EXPERiENCE
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2022.12 ‑ Present</strong> Associate Professor<br>
+  <span style="font-size: 90%;">National University of Defense Technology </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2019.09 ‑ 2022.09</strong> Research Assistant<br>
+  <span style="font-size: 90%;">University of Bonn </span>
+  </p>
+
+
+<span id="Team"></span>
 # 💻 Team
 ## Ph.D.
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
