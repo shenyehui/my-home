@@ -419,7 +419,7 @@
   
   **<u>Xieyuanli Chen</u>** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
   
-- [Poisson surface reconstruction for LiDAR odometry and mapping](https://ieeexplore.ieee.org/abstract/document/9562069/)  [PDF](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
+- [Poisson surface reconstruction for LiDAR odometry and mapping](https://ieeexplore.ieee.org/abstract/document/9562069/)  [[PDF]](https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf) [![](https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars)](https://github.com/PRBonn/puma)
 
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2021)***
   
