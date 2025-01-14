@@ -104,7 +104,7 @@
 
   Changsong Pang, **<u>Xieyuanli Chen</u>**, Yimin Liu, Huimin Lu, Yuwei Cheng
   
-- [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://ieeexplore.ieee.org/document/10611612)  [PDF](https://arxiv.org/pdf/2404.01587) [![](https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/TSCM)
+- [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://ieeexplore.ieee.org/document/10611612)  [[PDF]](https://arxiv.org/pdf/2404.01587) [![](https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars)](https://github.com/nubot-nudt/TSCM)
  
   *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
   
@@ -350,7 +350,7 @@
   
   **<u>Xieyuanli Chen</u>**, Benedikt Mersch, Lucas Nunes, Rodrigo Marcuzzi, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
   
-- [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view?pli=1) [![](https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars)](https://github.com/PRBonn/segcontrast)
+- [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://ieeexplore.ieee.org/abstract/document/9681336/)  [[PDF]](https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view) [![](https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars)](https://github.com/PRBonn/segcontrast)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
