@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xieyuanli Chen (陈谢沅澧)"
-description              : "Associate Professor at the National University of Defense Technology."
+description              : "Associate Professor at NUDT."
 repository               : "shenyehui/my-home"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Xieyuanli Chen (陈谢沅澧)"
   avatar           : "images/my-photo-new.png"
-  bio              : "NUDT"
+  bio              : #"NUDT"
   location         : "China"
   employer         :
   pubmed           : 
@@ -45,8 +45,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  dblp             : "https://dblp.org/pid/207/2256.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0955-6681"
+  dblp             : #"https://dblp.org/pid/207/2256.html"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0003-0955-6681"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
