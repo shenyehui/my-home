@@ -288,12 +288,6 @@
   
   Yang Yuan, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Yunxiao Lv, Huimin Lu, Junhao Xiao
   
-- [A Semantic Segmentation Network Exploiting Multiple Cues and Channel Exchanging](https://ieeexplore.ieee.org/abstract/document/10450711/) 
-
-  *Chinese Automation Congress **(CAC 2023)***
-  
-  Yici Hao, Wenbang Deng, **<u>Xieyuanli Chen</u>**, Jingsheng Tang, Huimin Lu, Zongtan Zhou
-  
 ## 2022
 - [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://ieeexplore.ieee.org/abstract/document/9994714/)  [[PDF]](https://arxiv.org/pdf/2209.07951) [![](https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars)](https://github.com/BIT-MJY/SeqOT)
 
@@ -467,12 +461,6 @@
 
   *IEEE Access*
 
-  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
-  
-- [Rgb-d based semantic slam framework for rescue robot](https://ieeexplore.ieee.org/abstract/document/9326866/) 
-
-  *Chinese Automation Congress **(CAC 2020)***
-  
   Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
   
 ## 2019
