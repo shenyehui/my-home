@@ -195,13 +195,13 @@
   Benedikt Mersch, Tiziano Guadagnino, **<u>Xieyuanli Chen</u>**, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
 
 
-- [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.sciencedirect.com/science/article/pii/S0921889022001762)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf) 
+- [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.sciencedirect.com/science/article/pii/S0921889022001762)  [[PDF]](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf)  [![](https://img.shields.io/github/stars/PRBonn/dynamic-point-removal?style=social&label=Code+Stars)](https://github.com/PRBonn/dynamic-point-removal) 
   
   *IEEE Robotics and Autonomous Systems **(RAS)***
 
   Mehul Arora, Louis Wiesmann, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
 
-- [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://www.sciencedirect.com/science/article/pii/S0921889022001725) [[PDF]](https://arxiv.org/pdf/2208.07364) 
+- [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://www.sciencedirect.com/science/article/pii/S0921889022001725) [[PDF]](https://arxiv.org/pdf/2208.07364)  [![](https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars)](https://github.com/PRBonn/pole-localization) 
 
   *IEEE Robotics and Autonomous Systems **(RAS)***
   
@@ -219,7 +219,7 @@
   
   Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
   
-- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040) 
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
 
   *Remote Sensing*
   
@@ -308,7 +308,7 @@
   
   Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **<u>Xieyuanli Chen</u>**
   
-- [Long-term localization using semantic cues in floor plan maps](https://ieeexplore.ieee.org/abstract/document/9956025/) [[PDF]](https://arxiv.org/pdf/2210.01456) 
+- [Long-term localization using semantic cues in floor plan maps](https://ieeexplore.ieee.org/abstract/document/9956025/) [[PDF]](https://arxiv.org/pdf/2210.01456)  [![](https://img.shields.io/github/stars/PRBonn/hsmcl?style=social&label=Code+Stars)](https://github.com/PRBonn/hsmcl) 
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
