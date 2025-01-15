@@ -14,7 +14,7 @@
   THESIS: Control for a Quadrotor UVA
 
 <span id="experience"></span>
-# 💬 Research Experience
+# 👨‍🔧 Research Experience
 ## ACADEMiC WORKiNG EXPERIENCE
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.12 ‑ Present</strong> Associate Professor<br>
