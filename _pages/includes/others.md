@@ -14,8 +14,8 @@
   THESIS: Control for a Quadrotor UVA
 
 <span id="experience"></span>
-# 👨‍🔧 Research Experience
-## ACADEMiC WORKiNG EXPERIENCE
+# 👨‍🔧 Working Experience
+## ACADEMIC WORKING EXPERIENCE
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.12 ‑ Present</strong> Associate Professor<br>
   <span style="font-size: 90%;">National University of Defense Technology </span>
