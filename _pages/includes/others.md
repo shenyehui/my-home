@@ -43,4 +43,4 @@
   <span style="font-size: 90%;">RoboCup Rescue Robot League </span>
   </p>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=iLZedZBHl_FfkAQLvkA17Hho9w44NF3Fw_oZCOIKfJI'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=iLZedZBHl_FfkAQLvkA17Hho9w44NF3Fw_oZCOIKfJI'></script>
