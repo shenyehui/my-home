@@ -1,20 +1,17 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- 2018.09 - 2022.08, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+- 2018.09 - 2022.08, **Dr.‑Ing.**, University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
   _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
-  <span style="font-size: 90%;">THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles</span>
+  THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
 
-- <p style="margin: 0; line-height: 1.2;">
-  2015.09 - 2017.12, M.S. in Robotics, National University of Defense Technology<br>
+- 2015.09 - 2017.12, **M.S. in Robotics**, National University of Defense Technology<br>
   _Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang_<br>
-  <span style="font-size: 90%;">THESIS: Binary Visual Feature‑based Monocular SLAM</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  2011.09 - 2015.07, B.S. in Electrical Engineering and Automation, Hunan University<br>
+  THESIS: Binary Visual Feature‑based Monocular SLAM
+
+- 2011.09 - 2015.07, **B.S. in Electrical Engineering and Automation**, Hunan University<br>
   _Hunan, China, SUPERVISOR: Prof. Dr. Jianhao Tan_<br>
-  <span style="font-size: 90%;">THESIS: Control for a Quadrotor UVA</span>
-  </p>
+  THESIS: Control for a Quadrotor UVA
 
 <span id="experience"></span>
 # 💬 Research Experience
