@@ -8,7 +8,7 @@
   
   Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
 
-- [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10814715)
+- [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715) 
 
   *IEEE Transactions on Multimedia **(T-MM)***
   
