@@ -1,11 +1,10 @@
 <span id="educations"></span>
 
 # 📖 Educations
-- <p style="margin: 0; line-height: 1.2;">
-  2018.09 - 2022.08, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+- 2018.09 - 2022.08, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
   _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
   <span style="font-size: 90%;">THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles</span>
-  </p>
+
 - <p style="margin: 0; line-height: 1.2;">
   2015.09 - 2017.12, M.S. in Robotics, National University of Defense Technology<br>
   _Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang_<br>
