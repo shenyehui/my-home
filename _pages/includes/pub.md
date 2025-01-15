@@ -98,7 +98,7 @@
 
   Rong Li, Shijie Li, **<u>Xieyuanli Chen</u>**, Teli Ma, Juergen Gall, Junwei Liang
 
-- [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475)
+- [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475) [![](https://img.shields.io/github/stars/ORCA-Uboat/RadarMOSEVE?style=social&label=Code+Stars)](https://github.com/ORCA-Uboat/RadarMOSEVE)
 
   *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI, 2024)***
 
