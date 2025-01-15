@@ -2,18 +2,18 @@
 
 # 📖 Educations
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2018.09 - 2022.08, Bonn, Germany</strong> Dr.‑Ing. (Ph.D. in Engineering) ‑ summa cum laude (with distinction, best possible grade)<br>
-  <span style="font-size: 90%;">University of Bonn, SUPERVISOR: Prof. Dr. Cyrill Stachniss</span><br>
+  2018.09 - 2022.08, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+  <span style="font-size: 90%;">Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss</span><br>
   <span style="font-size: 90%;">THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2015.09 - 2017.12, Hunan, China</strong> M.S. in Robotics<br>
-  <span style="font-size: 90%;">National University of Defense Technology, SUPERVISOR: Prof. Dr. Hui Zhang</span><br>
+  2015.09 - 2017.12, M.S. in Robotics, >National University of Defense Technology<br>
+  <span style="font-size: 90%;" Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang</span><br>
   <span style="font-size: 90%;">THESIS: Binary Visual Feature‑based Monocular SLAM</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  <strong>2011.09 - 2015.07, Hunan, China</strong> B.S. in Electrical Engineering and Automation<br>
-  <span style="font-size: 90%;">Hunan University, SUPERVISOR: Prof. Dr. Jianhao Tan </span><br>
+  2011.09 - 2015.07, B.S. in Electrical Engineering and Automation, Hunan University<br>
+  <span style="font-size: 90%;">Hunan, China, SUPERVISOR: Prof. Dr. Jianhao Tan </span><br>
   <span style="font-size: 90%;">THESIS: Control for a Quadrotor UVA</span>
   </p>
 
