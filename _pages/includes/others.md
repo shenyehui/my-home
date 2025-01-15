@@ -7,8 +7,8 @@
   <span style="font-size: 90%;">THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  2015.09 - 2017.12, M.S. in Robotics, >National University of Defense Technology<br>
-  <span style="font-size: 90%;" Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang</span><br>
+  2015.09 - 2017.12, M.S. in Robotics, National University of Defense Technology<br>
+  <span style="font-size: 90%;">Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang</span><br>
   <span style="font-size: 90%;">THESIS: Binary Visual Feature‑based Monocular SLAM</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
